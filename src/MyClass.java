@@ -9,5 +9,8 @@ public class MyClass {
 
         //degisiklik 3
         System.out.println("Bu derste branchler islenecek");
+
+        //techproda degisiklik
+        System.out.println("yeni branch");
     }
 }
